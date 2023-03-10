@@ -1,3 +1,10 @@
+## Hello Mentro Team
+
+The assignment can be viewed at : https://mentro-assignment.netlify.app/
+
+## Snapshot
+<img width="1440" alt="Screenshot 2023-03-10 at 9 48 28 PM" src="https://user-images.githubusercontent.com/111526953/224368688-8d6edd11-f4f6-4b30-9efd-c8fb5a5b39c7.png">
+ 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
