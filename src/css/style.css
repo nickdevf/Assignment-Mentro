@@ -1,0 +1,82 @@
+#cutArc{
+    background-color: #C5F8C7;
+    /* height: 1000px;
+    width: 1000px; */
+    aspect-ratio: 1/1;
+    width: 90dvw;
+    position: relative;
+    margin-top: -55%;
+    /* margin-left: 25%; */
+    left: 25%;
+    margin-right: -35%;
+    border-radius: 50%;
+    overflow: hidden;
+    transition: background-color;
+    transition-duration: 1s;
+}
+
+#mainImage{
+    aspect-ratio: 1/1;
+    width: 20%;
+    border-radius:50%;
+    background-color:yellow;
+    position:absolute;
+    bottom:25%;
+    left:60%;
+    transition: all;
+    transition-delay: 2s;
+    transition-duration: 1s ;
+    transition-timing-function: ease-in-out;
+    
+}
+
+.btn{
+    position: absolute;
+    width: 75px;
+    height: 75px;
+    background: #4CAF50;
+}
+
+#btn1{
+    left: 45%;
+    top: 60%;
+}
+
+#btn2{
+    left: 90%;
+    top: 60%;
+}
+
+.NameBox{
+    position: absolute;
+    width: 330px;
+    height:90px;
+    background: rgba(0, 162, 7, 0.17);
+    border-radius: 15px;
+    transition: all;
+    transition-duration: 1s ;
+    transition-timing-function: ease-in-out;
+}
+
+.Name{
+    font-family: 'Poppins';
+    font-style: normal;
+}
+
+#nameDiv{
+    display: flex;
+    align-items: center;
+    left: 60%;
+    top: 80%;
+}
+
+#nameDiv2{
+    left: 12%;
+    top: 80%;
+}
+
+#parentNameDiv{
+    left: 52%;
+    top: 80%;
+}
+

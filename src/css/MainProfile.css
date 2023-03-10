@@ -1,0 +1,93 @@
+#mainCircle{
+    aspect-ratio: 1/1;
+    width: 50%;
+    /* background-color: aquamarine; */
+    border-radius: 50%;
+    position: absolute;
+    top: 70%;
+    left: 25%;
+    /* background-image: linear-gradient(to right,aquamarine,blue); */
+    border: 4px dashed #193F5A;
+    box-sizing: border-box;
+} 
+
+#icon0{
+    aspect-ratio: 1/1;
+    height: 25%;
+    /* background-color: brown; */
+    border-radius: 50%;
+    position: absolute;
+    left: -12.5%;
+    top: 37.5%;
+
+}
+
+#icon1{
+    aspect-ratio: 1/1;
+    height: 25%;
+    /* background-color: brown; */
+    border-radius: 50%;
+    position: absolute;
+    left: 0.5%;
+    top: 4.5%;
+}
+
+#icon2{
+    aspect-ratio: 1/1;
+    height: 25%;
+    /* background-color: brown; */
+    border-radius: 50%;
+    position: absolute;
+    top: -12.5%;
+    left: 37.5%;
+}
+
+#icon3{
+    aspect-ratio: 1/1;
+    height: 25%;
+    /* background-color: brown; */
+    border-radius: 50%;
+    position: absolute;
+    left: 74.5%;
+    top: 4.5%;
+}
+
+#icon4{
+    aspect-ratio: 1/1;
+    height: 25%;
+    /* background-color: brown; */
+    border-radius: 50%;
+    position: absolute;
+    left: 87.5%;
+    top: 37.5%;
+}
+
+#icon5{
+    aspect-ratio: 1/1;
+    height: 25%;
+    /* background-color: brown; */
+    border-radius: 50%;
+    position: absolute;
+    left: 74.5%;
+    top: 70.5%;
+}
+
+#icon6{
+    aspect-ratio: 1/1;
+    height: 25%;
+    /* background-color: brown; */
+    border-radius: 50%;
+    position: absolute;
+    left: 37.5%;
+    top: 87.5%;
+}
+
+#icon7{
+    aspect-ratio: 1/1;
+    height: 25%;
+    /* background-color: brown; */
+    border-radius: 50%;
+    position: absolute;
+    left: 0.5%;
+    top: 70.5%;
+}
