@@ -1,7 +1,5 @@
-import {TiStarHalf, TiStar} from 'react-icons/ti'
 import '../css/ProfileDetails.css'
 import Rating from "@mui/material/Rating";
-import { ProfileData } from '../data/profileData';
 export const ProfileInfo = ({presentProfile})=>{
     // let arr=[]
     // for(let i=1;i<=presentProfile.Stars;i++){
